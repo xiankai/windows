@@ -1,0 +1,58 @@
+{
+	"chocolatey": {
+		"SublimeText3": {},
+		"SublimeText3.PackageControl": {},
+		"vagrant": {},
+		"virtualbox": {},
+		"putty": {},
+		"winscp": {},
+		"SourceTree": {},
+
+		"7zip.install": {},
+		"f.lux": {},
+		"uTorrent": {},
+		"teamviewer": {},
+		"KatMouse": {},
+		"daemontoolslite": {},
+		"openvpn": {},
+		"lockhunter": {},
+
+		"TeamSpeak3": {},
+		"mumble": {},
+		"skype": {},
+
+		"GoogleChrome": {},
+		"Firefox": {},
+
+		"javaruntime": {},
+		"adobereader": {},
+		"adobeshockwaveplayer": {},
+		"flashplayeractivex": {},
+		"flashplayerplugin": {},
+
+		"evernote": {},
+
+		"foobar2000": {},
+		"IrfanView": {},
+		"vlc": {},
+
+		"angel": {},
+		"gog": {},
+		"monitoroff": {},
+		"ventrilo": {}
+	},
+	"package": {
+		"angel": {
+			"source": "//VBOXSVR/install/angel.exe"
+		},
+		"gog": {
+			"source": "//VBOXSVR/install/games/Setup_Downloader_3.6.0_stable.exe"
+		},
+		"monitoroff": {
+			"source": "//VBOXSVR/install/MonitorOff-setup.exe"
+		},
+		"ventrilo": {
+			"source": "//VBOXSVR/install/ventrilo-3.0.8-Windows-i386.exe"
+		}
+	}
+}

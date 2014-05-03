@@ -1,0 +1,7 @@
+---
+:backends:
+  - json
+:json:
+  :datadir: \\VBOXSVR\vagrant\hiera
+:hierarchy:
+  - common
